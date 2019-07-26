@@ -1,6 +1,5 @@
 //
 //  ImagePicker.swift
-//  InternationalWorld
 //
 //  Created by Alex on 5/16/19.
 //  Copyright © 2019 alex. All rights reserved.
